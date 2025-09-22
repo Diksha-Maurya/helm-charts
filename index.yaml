@@ -3,12 +3,12 @@ entries:
   my-first-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-09-21T19:51:23.1558441-04:00"
+    created: "2025-09-21T22:31:23.184924-04:00"
     description: A Helm chart for Kubernetes
     digest: 3fe408f233ec13b8b465d51b80d1d1df5ae7703e7ebd3dd1011427fd597ecb47
     name: my-first-chart
     type: application
     urls:
-    - https://Diksha-Maurya.github.io/my-helm-charts/my-first-chart-0.1.0.tgz
+    - https://diksha-maurya.github.io/helm-charts/my-first-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-21T19:51:23.1547816-04:00"
+generated: "2025-09-21T22:31:23.1838805-04:00"
